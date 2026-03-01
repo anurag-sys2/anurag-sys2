@@ -1,14 +1,14 @@
 # Hi, I'm Anurag 👋
 
 🎓 B.Tech Computer Science Student  
-💻 Web Developer | PHP | JavaScript | MySQL  
+💻 Web Developer | MySQL  
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** PHP, JavaScript, SQL,C,Java
+- **Languages:** JavaScript, SQL,C,Java
 - **Frontend:** HTML5, CSS3, Bootstrap,React
-- **Backend:** Core PHP, MySQL,Node.js,MongoDB
+- **Backend:**  Node.js,MongoDB
 - **Tools:** Git, GitHub
 - **Currently Exploring:** WordPress Plugin Development
 
@@ -16,7 +16,6 @@
 
 ## 🌱 Currently Learning
 - WordPress (Themes & Plugins)
-- Secure PHP Coding Practices
 - REST APIs
 - Clean Code & Best Practices
 
@@ -25,7 +24,7 @@
 ## 📌 Projects
 - 🔹 Spotify Clone using javascript,html,css
 - 🔹 Custom WordPress Plugin (in progress)
-- 🔹 React and javascript based password manager
+- 🔹 React and javascript based Food delivery web application
 
 ---
 
